@@ -1,0 +1,55 @@
+.register{
+    height: calc(100vh - 50px);
+    display: flex;
+    align-items: center;
+    flex-direction:column ;
+    justify-content: center;
+    background:linear-gradient(#ffffff2f,#00000063),
+    
+    url("../../../../mia-app/public/immagini/fotoBarcaVela01.jpg") ;
+    background-size: cover;
+    }
+    .registerTitle{
+        font-size: 50px;
+    }
+    
+    .registerForm{
+    margin-top: 20px;
+    display:flex ;
+    flex-direction: column;
+    }
+    .registerForm > label{
+    margin: 10px 0;
+    }
+    
+    .registerInput{
+        padding: 10px;
+        background-color: white;
+        border: none;
+    }
+    
+    .registerButton{
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: teal;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    }
+    
+    .registerLoginButton{
+    
+    position: absolute;
+    top: 70px;
+    right: 20px;
+    background-color: lightcoral;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    }
+    .spanColoreLogin{
+        color: white;
+    }
