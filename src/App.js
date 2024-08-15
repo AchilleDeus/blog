@@ -27,7 +27,7 @@ function App() {
  <Route path='/write' element={ <Write/>} />
  <Route path='/settings' element={  <Settings/> } />
 
- <Route path='/post/:postId' element={<Single/>} />
+ <Route path='/post/:Id' element={<Single/>} />
 
 
 
