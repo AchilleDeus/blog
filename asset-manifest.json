@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/blog/static/css/main.9e957720.css",
+    "main.js": "/blog/static/js/main.77767c45.js",
+    "static/media/fotoBarcaVela01.jpg": "/blog/static/media/fotoBarcaVela01.e71598613926a0222299.jpg",
+    "static/media/fotoTramonto01.jpg": "/blog/static/media/fotoTramonto01.172ed7acb1622ab6e74f.jpg",
+    "index.html": "/blog/index.html",
+    "main.9e957720.css.map": "/blog/static/css/main.9e957720.css.map",
+    "main.77767c45.js.map": "/blog/static/js/main.77767c45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e957720.css",
+    "static/js/main.77767c45.js"
+  ]
+}
