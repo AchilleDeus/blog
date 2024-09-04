@@ -6,7 +6,7 @@ export default function Post() {
 
    
     <div className="post">
-     <img className='postImg' src="./immagini/foto01.jpg" alt="..." />
+     <img className='postImg' src="/immagini/foto01.jpg" alt="..." />
       
       
      
