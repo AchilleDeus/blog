@@ -12,7 +12,7 @@ export default function Header() {
 
 </div>
 
-<img  className="headerImg" src="./immagini/foto01.png" alt="..." />
+<img  className="headerImg" src="/immagini/foto01.png" alt="..." />
     </div>
   )
 }
